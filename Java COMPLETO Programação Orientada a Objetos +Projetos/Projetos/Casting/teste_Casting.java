@@ -6,7 +6,7 @@ public class teste_Casting {
         a = 5;
         b = 2;
 
-        resultado = (double) a / b; //coloca-se o double para fazer a conversão do tipo inteiro para double.
+        resultado = (double) a / b; //coloca-se o double para fazer a conversão do tipo inteiro para double..
 
         System.out.println(resultado);
     }
