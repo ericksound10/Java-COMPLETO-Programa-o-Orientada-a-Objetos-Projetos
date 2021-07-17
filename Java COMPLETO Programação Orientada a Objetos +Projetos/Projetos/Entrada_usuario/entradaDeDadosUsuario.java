@@ -1,14 +1,11 @@
 import java.util.Scanner;
 
-import java.util.Scanner;
-
 public class entradaDeDadosUsuario {
     public static void main(String[] args) {
         
         Scanner sc = new Scanner(System.in);
 
-        String x;
-        
+        /*String x;        
         x = sc.next(); //sc.next serve para ler String
         System.out.println("Você digitou: " + x);
 
@@ -22,7 +19,23 @@ public class entradaDeDadosUsuario {
 
         char c;
         c = sc.next().charAt(0); //charAt(0) = Serve para Ler o primeiro Caracter da String digitada
-        System.out.printf("Você digitou: " + c);
+        System.out.printf("Você digitou: " + c);*/
+
+        //Melhorando código
+        String x;
+        int t;
+        double d;
+        char c;
+
+        x = sc.next();
+        t = sc.nextInt();
+        d = sc.nextDouble(); 
+        c = sc.next().charAt(0);
+        System.out.println("Dados digitados: ");
+        System.out.println(x);
+        System.out.println(t);
+        System.out.println(d);
+        System.out.println(c);
 
         sc.close();
     }
