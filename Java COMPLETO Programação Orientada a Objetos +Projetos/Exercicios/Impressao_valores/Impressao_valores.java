@@ -9,7 +9,7 @@ public class Impressao_valores {
     char gender = 'F';
     double price1 = 2100.00;
     double price2 = 650.50;
-    double measure = 53.234567;
+    double measure = 53.2345678;
 
     System.out.println("Prducts:");
     System.out.printf("%s, which price is $ %.2f%n", product1, price1);
