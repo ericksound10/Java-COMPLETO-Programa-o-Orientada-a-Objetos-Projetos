@@ -16,6 +16,10 @@ public class entradaDeDadosUsuario {
         t = sc.nextInt(); // nextInt serve para ler um número inteiro que o usuário digitou
         System.out.println("Você digitou um número inteiro: " + t);
 
+        double d;
+        d = sc.nextDouble(); //nextDouble serve para ler número com ponto flutuante
+        System.out.println("Você digitou: " + d); 
+
         sc.close();
     }
     
