@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch entradaDeDadosUsuario",
+            "request": "launch",
+            "mainClass": "entradaDeDadosUsuario",
+            "projectName": "Cursos Udemy_4f9093b1"
+        },
+        {
+            "type": "java",
             "name": "Launch teste_Casting",
             "request": "launch",
             "mainClass": "teste_Casting",
