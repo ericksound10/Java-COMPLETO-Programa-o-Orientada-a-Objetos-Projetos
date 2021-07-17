@@ -20,6 +20,10 @@ public class entradaDeDadosUsuario {
         d = sc.nextDouble(); //nextDouble serve para ler número com ponto flutuante
         System.out.println("Você digitou: " + d); 
 
+        char c;
+        c = sc.next().charAt(0); //charAt(0) = Serve para Ler o primeiro Caracter da String digitada
+        System.out.printf("Você digitou: " + c);
+
         sc.close();
     }
     
