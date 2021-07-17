@@ -27,7 +27,7 @@ public class entradaDeDadosUsuario {
         double d;
         char c;
 
-        x = sc.next();
+        x = sc.nextLine(); //nextLine serve para ler mais de uma palavra, se quiser a leitura somente da primeira palavra usa-se somente sc.next
         t = sc.nextInt();
         d = sc.nextDouble(); 
         c = sc.next().charAt(0);
