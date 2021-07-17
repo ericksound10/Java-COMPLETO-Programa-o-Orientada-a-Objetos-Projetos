@@ -21,7 +21,7 @@ public class entradaDeDadosUsuario {
         c = sc.next().charAt(0); //charAt(0) = Serve para Ler o primeiro Caracter da String digitada
         System.out.printf("Você digitou: " + c);*/
 
-        //Melhorando código
+        //Melhorando código..
         String x;
         int t;
         double d;
