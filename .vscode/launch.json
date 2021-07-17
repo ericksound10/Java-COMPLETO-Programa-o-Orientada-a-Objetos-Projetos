@@ -1,0 +1,91 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch teste_Casting",
+            "request": "launch",
+            "mainClass": "teste_Casting",
+            "projectName": "Cursos Udemy_4f9093b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Casas_Decimais",
+            "request": "launch",
+            "mainClass": "Casas_Decimais",
+            "projectName": "Cursos Udemy_4f9093b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Concatenar",
+            "request": "launch",
+            "mainClass": "Concatenar",
+            "projectName": "Cursos Udemy_4f9093b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch EstruturaCondicional",
+            "request": "launch",
+            "mainClass": "EstruturaCondicional",
+            "projectName": "Cursos Udemy_4f9093b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Impressao_valores",
+            "request": "launch",
+            "mainClass": "Impressao_valores",
+            "projectName": "Cursos Udemy_4f9093b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Locadora",
+            "request": "launch",
+            "mainClass": "Locadora",
+            "projectName": "Cursos Udemy_4f9093b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperacoesMatematicas",
+            "request": "launch",
+            "mainClass": "OperacoesMatematicas",
+            "projectName": "Cursos Udemy_4f9093b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeiroPrograma",
+            "request": "launch",
+            "mainClass": "PrimeiroPrograma",
+            "projectName": "Cursos Udemy_4f9093b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Primeiro_programa",
+            "request": "launch",
+            "mainClass": "Primeiro_programa",
+            "projectName": "Cursos Udemy_4f9093b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Programa",
+            "request": "launch",
+            "mainClass": "Programa",
+            "projectName": "Cursos Udemy_4f9093b1"
+        },
+        {
+            "type": "java",
+            "name": "Launch lacoRepeticao",
+            "request": "launch",
+            "mainClass": "lacoRepeticao",
+            "projectName": "Cursos Udemy_4f9093b1"
+        }
+    ]
+}
